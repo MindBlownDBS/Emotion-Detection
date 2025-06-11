@@ -1,0 +1,9 @@
+# Abaikan virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Abaikan file/folder yang tidak perlu untuk deployment
+.kaggle/
+*.zip
+.dockerignore
