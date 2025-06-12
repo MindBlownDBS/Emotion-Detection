@@ -1,6 +1,6 @@
-# MindBlown Emotion Detection
+# MindBlown Emotion Detection 🕵️
 
-## Project Description
+## Project Description 
 MindBlown Emotion Detection is a classification model in Natural Language Processing (NLP) for MindTracker feature in MindBlown App, designed to predict the emotions contained in a sentence, either when run locally or deployed through Hugging Face Spaces using Docker.
 
 ## Features
@@ -10,7 +10,7 @@ MindBlown Emotion Detection is a classification model in Natural Language Proces
 
 ---
 
-## Running Locally
+## Running Locally 💻
 
 Follow the steps below to run the MindBlown Emotion Detection on your local machine using Docker:
 
@@ -31,7 +31,7 @@ docker build -t emotion-detection .
 docker run -p 8080:8080 emotion-detection
 ```
 
-## Deploy in Hugging Face Spaces
+## Deploy in Hugging Face Spaces ☁️
 
 Follow the steps below to deploy your model in Hugging Face Spaces:
 
